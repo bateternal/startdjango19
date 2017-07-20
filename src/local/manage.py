@@ -1,0 +1,1 @@
+/home/abolfazl/Desktop/trydjango19/trydjango19/manage.py
